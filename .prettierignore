@@ -1,0 +1,6 @@
+# Ignore artifacts:
+package.json
+README.md
+yarn.lock
+tsconfig.json
+.gitignore
