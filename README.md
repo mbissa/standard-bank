@@ -1,3 +1,7 @@
+# Standard bank assignment app for Basalt technology
+This is just a demo app and doesn't  contain any tests as the app is mostly static.
+I have tried to emulate some scenarios of fetching the data instead of putting in static values.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `yarn install`
+Sets up the app and installs all the node modules for the app to run.
 
 ### `yarn start`
 
